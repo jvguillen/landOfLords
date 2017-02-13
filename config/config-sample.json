@@ -1,0 +1,29 @@
+{
+  "development": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "localhost",
+    "dialect": "mysql",
+    "migrationStorage": "json",
+    "seederStorage": "json"
+  },
+  "test": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "localhost",
+    "dialect": "mysql",
+    "migrationStorage": "json",
+    "seederStorage": "json"
+  },
+  "production": {
+    "username": "",
+    "password": "",
+    "database": "",
+    "host": "localhost",
+    "dialect": "mysql",
+    "migrationStorage": "json",
+    "seederStorage": "json"
+  }
+}

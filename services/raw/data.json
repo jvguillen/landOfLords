@@ -1,0 +1,71 @@
+[
+ {
+   "privateRemarks": "This property is a trial property to test the SimplyRETS. Private agent remarks will be included in this field for use in the SimplyRETS REST API. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+   "property": {
+     "cooling": null,
+     "style": "Ranch, Traditional",
+     "area": 1990,
+     "bathsFull": 4,
+     "bathsHalf": 2,
+     "stories": 2,
+     "heating": "Forced Air,Electric,Natural Gas,Wood,Fireplace",
+     "laundryFeatures": "Gas & Electric Dryer Hookup,Electric Dryer Hookup,In Garage,See Remarks",
+     "occupantName": null,
+     "lotDescription": "Lake Frontage,Lake View,Level Driveway",
+     "pool": "Association,Private,In Ground",
+     "subType": null,
+     "bedrooms": 5,
+     "interiorFeatures": "Drapes/Curtains/Window Cover, High Ceiling",
+     "maintenanceExpense": null,
+     "additionalRooms": "Dressing Area,Family Room,Formal Entry",
+     "exteriorFeatures": "Back Yard Fenced, Covered Patio/Deck, Patio/Deck, Satellite Dish, Storage Shed, Subdivision Tennis Court",
+     "water": null,
+     "view": "Neighborhood",
+     "subdivision": "MDC DevelopmentLLC Sub.",
+     "construction": "In Kitchen,Stackable,Washer Included",
+     "parking": {"leased": null, "spaces": 6, "description": "3 Unassigned"},
+     "type": "RNT",
+     "garageSpaces": 0.550295196660471,
+     "accessibility": "Driveway Gate",
+     "occupantType": null,
+     "yearBuilt": 1965
+   },
+   "mlsId": 1005252,
+   "terms": "Month-Mo",
+   "leaseTerm": null,
+   "disclaimer": "This information is believed to be accurate, but without warranty.",
+   "address": {
+     "crossStreet": "Derry/Glen Erin",
+     "state": "Texas",
+     "country": "United States",
+     "postalCode": "77429",
+     "streetName": "South VELLUM Extension",
+     "streetNumberText": "90678",
+     "city": "Cypress",
+     "streetNumber": 90678,
+     "full": "90678 South VELLUM Extension #6A2",
+     "unit": "6A2"
+   },
+   "listDate": "1991-11-26T02:10:22.559163Z",
+   "modified": "2014-12-24T14:13:39.677883Z",
+   "photos": [
+     "https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home5.jpg",
+     "https://s3-us-west-2.amazonaws.com/cdn.simplyrets.com/properties/trial/home-inside-5.jpg"
+   ],
+   "listingId": "35069323",
+   "geo": {
+     "county": "East",
+     "lat": 29.798412,
+     "lng": -95.756254,
+     "marketArea": "The Woodlands"
+   },
+   "leaseType": "FullServ",
+   "virtualTourUrl": null,
+   "remarks": "This property is a trial property to test the SimplyRETS. This field will include remarks or descriptions from your RETS feed intended for public view. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+   "association": {
+     "fee": 1000,
+     "name": "SimplyRETS Home Owners Association",
+     "amenities": "Club House,Community Pool,Garden/ Greenbelt/ Trails,Playground,Recreation Room,Sauna/ Spa/ Hot Tub"
+   }
+ }
+]
